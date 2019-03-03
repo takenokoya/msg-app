@@ -4,4 +4,7 @@ class MessagesController < ApplicationController
     @message = params[:msg]
   end
 
+  def vertexg
+  end
+
 end
